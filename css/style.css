@@ -1,0 +1,26 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Maven Pro', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+.d-flex-1{
+    display: flex;
+    justify-content: center;
+}
+.nav-element{
+    background-color: #FFFBF0;
+}
+.btn{
+    background-color: #8CA724;
+}
+.footer-image>img{
+    width: 100px;
+}
+.footer-shopping-imagse>img{
+    width: 80%;
+}
+.buy-now:hover{
+    background-color: rgb(30, 1, 57);
+}
